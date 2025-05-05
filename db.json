@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Estudar React",
+      "description": "Revisão de hooks",
+      "priority": "alta",
+      "done": false
+    },
+    {
+      "id": "75a4",
+      "title": "Estudar JAVA",
+      "description": "",
+      "priority": "baixa",
+      "done": true
+    }
+  ]
+}
